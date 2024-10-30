@@ -1,1 +1,0 @@
-# Atividade-Padroes_Projeto
